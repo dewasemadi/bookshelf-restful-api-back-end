@@ -6,5 +6,4 @@ Repositori ini adalah submission dicoding pada kelas Belajar Membuat Aplikasi Ba
 3. Menerapkan CORS pada seluruh resource yang ada,
 4. Menggunakan ESLint dan salah satu style guide agar gaya penulisan kode Javascript lebih konsisten. Disini saya menggunakan style AirBnB.
 
-#Tech stack
-Node.js, back-end dengan framework @hapi/hapi, ESLint, dan nanoid.
+#Tech stack => Node.js, back-end dengan framework @hapi/hapi, ESLint, dan nanoid.
